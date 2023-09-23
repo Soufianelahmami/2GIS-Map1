@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJcmEMu.webp",
+            "title": "2GIS Map 1",
+            "text_Content_": "In today's fast-paced world, navigation and location-based services have become integral to our daily lives. Whether you are planning a trip, looking for a nearby restaurant, or trying to find the quickest route to your destination, digital maps play a crucial role"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJcm1ne.webp",
+            "title": "2GIS Map 2",
+            "text_Content_": "One such mapping service that has gained popularity for its accuracy and user-friendly interface is 2GIS Map. In this article, we will explore what 2GIS Map is, its features, and why it has become a trusted companion for millions of users around the globe"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJcmlt9.webp",
+            "title": "2GIS Map 3",
+            "text_Content_": "2GIS Map is a versatile and comprehensive digital mapping service that provides detailed maps, navigation assistance, and location-based information. Developed by 2GIS, a Russian-based company, this platform has grown to cover not only Russia but also numerous other countries, making it a global player in the mapping and location services industry"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJcmauS.webp",
+            "title": "2GIS Map 4",
+            "text_Content_": "2GIS Map is renowned for its highly detailed and accurate maps. The platform provides extensive coverage of cities, towns, and even remote locations. Users can easily zoom in to see specific buildings, streets, and points of interest"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJcmcw7.webp",
+            "title": "2GIS Map 5",
+            "text_Content_": "One of the standout features of 2GIS Map is its extensive database of local businesses. Users can find a wide range of information about nearby establishments, including restaurants, hotels, shops, and more. Each listing includes detailed contact information, reviews, and even photos"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJcmRa4.webp",
+            "title": "2GIS Map 6",
+            "text_Content_": "2GIS Map offers robust navigation and direction features. Users can input their desired destination and receive step-by-step directions with estimated travel times. The platform also provides real-time traffic updates to help users avoid congested areas and reach their destinations faster"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJcmY92.webp",
+            "title": "2GIS Map 7",
+            "text_Content_": "For urban travelers, 2GIS Map offers detailed information on public transportation systems, including bus routes, metro lines, and tram services. This feature is incredibly useful for those looking to navigate cities efficiently"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJcm58l.webp",
+            "title": "2GIS Map 8",
+            "text_Content_": " 2GIS Map allows users to download maps for offline use. This is especially handy when traveling to areas with limited or no internet connectivity, ensuring that you can still access maps and directions when needed"
         }
     ]
 }
